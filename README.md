@@ -2,6 +2,10 @@
 
 This project focuses on developing a deep learning model to detect glaucoma using Retinal Nerve Fiber Layer Thickness (RNFLT) images obtained from Optical Coherence Tomography (OCT) scans. The goal is to enhance early detection of glaucoma, a leading cause of irreversible blindness, by leveraging advanced image processing techniques and machine learning algorithms.
 
+## Contributors
+Francis C. Chianu - 666560
+Ishimwe Abedinego - 666221
+
 ## Problem Statement
 Glaucoma is a serious eye condition that often remains asymptomatic until advanced stages, leading to irreversible vision loss. The current diagnostic methods are costly and labor-intensive, making regular check-ups challenging, especially in regions with limited healthcare resources. This project aims to address these challenges by utilizing deep learning to analyze RNFLT images and improve the accuracy and efficiency of glaucoma detection.
 ![image](https://github.com/user-attachments/assets/b50da55f-68f4-4d5f-aab1-f4e9482fc296)
